@@ -1,3 +1,5 @@
+# TODO: label each space so the player can choose them easily
+
 valid_answer = False
 
 while not valid_answer:
